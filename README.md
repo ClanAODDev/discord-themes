@@ -1,5 +1,5 @@
-# discord-themes
-Collection of AOD Discord Themes
+# AOD Discord Themes
+Collection of Discord themes built by AOD for AOD
 
 ### How to install
 Some special instructions and guidance here
